@@ -1,9 +1,10 @@
 ### Hello, My name is Colin. 
 I'm a software developer from Ontario, Canada who specializes in Python development. Below you will see a few pinned repositories, these are my favourite projects I've worked on and are good examples of the code I am capable of writing.
 
-### Projects I maintain
+### Projects I am working on/maintain
 
-- [mark2](https://github.com/gsand/mark2) (Minecraft server wrapper written in Python 3 using Twisted)
+- [mark3](https://github.com/Column01/mark3) (Author) - A modern rewrite of mark2 using asyncio
+- [mark2](https://github.com/gsand/mark2) (maintainer) - Minecraft server wrapper written in Python 3 using Twisted
 
 ### Favourite Project
 My favourite project is my discord moderation bot that uses class loading to allow a user to make the bot their own. Simply adding scripts to a folder with some command or event handler classes allows the user to add to the bot without even restarting the program!
