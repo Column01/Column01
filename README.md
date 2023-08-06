@@ -3,7 +3,6 @@ I'm a software developer from Ontario, Canada who specializes in Python developm
 
 ### Projects I am working on/maintain
 
-- [mark3](https://github.com/Column01/mark3) (Author) - A modern rewrite of mark2 using asyncio
 - [mark2](https://github.com/gsand/mark2) (maintainer) - Minecraft server wrapper written in Python 3 using Twisted
 
 ### Favourite Project
